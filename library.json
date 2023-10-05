@@ -1,0 +1,34 @@
+{
+    "name": "ACDimmer",
+    "version": "1.0.0",
+    "description": "An ESP8266 AC dimming implementation compatible with the RoboDyn line of TRIAC-based leading-edge dimmers.",
+    "keywords": [
+        "esp8266",
+        "dimmer",
+        "ac",
+        "robodyn",
+        "leading-edge",
+        "triac",
+        "light",
+        "IoT",
+        "smart",
+        "home",
+        "zero-crossing",
+        "arduino"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/idmadj/ACDimmer.git"
+    },
+    "authors": [
+        {
+            "name": "Abdelmadjid Hammou",
+            "url": "https://github.com/idmadj"
+        }
+    ],
+    "license": "GPL-3.0-or-later",
+    "frameworks": "arduino",
+    "platforms": [
+      "espressif8266"
+    ]
+}
